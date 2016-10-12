@@ -10,7 +10,7 @@ Installing Python
 * Pandas: Data structures and analysis
 * Scikit-learn: Supervised and unsupervised learning algorithms
 
-The easiest way to get all of these is simply to install the Anaconda installation of Python. This is particularly convenient for Windows users. Download [Anaconda from here](https://www.continuum.io/downloads). 
+The easiest way to get all of these is simply to install the Anaconda installation of Python. This is particularly convenient for Windows users. Download [Anaconda from here](https://www.continuum.io/downloads). I strongly recommend you use Python 3.x, and not Python 2.x.
 
 If you want, you can also install all the libraries manually with following command:
 
