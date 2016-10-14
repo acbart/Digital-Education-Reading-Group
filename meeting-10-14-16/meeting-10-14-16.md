@@ -26,5 +26,14 @@ Clustering in Python
 Sample Code
 ===========
 
+There is example source code in [cluster.py](cluster.py)
+
 Sample Dataset
 ==============
+
+There is an example dataset in [vt-cs-grades.csv](vt-cs-grades.csv)
+
+Slides
+======
+
+Slides are in [Clustering-Educational-Data-Mining.pptx](Clustering-Educational-Data-Mining.pptx)
