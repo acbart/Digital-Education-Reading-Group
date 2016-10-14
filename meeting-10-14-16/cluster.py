@@ -22,7 +22,7 @@ from sklearn import preprocessing
 np.random.seed(42)
 
 # Read in the CSV dataset
-instructors = pd.read_csv('simplified-filtered.csv', sep='\t')
+instructors = pd.read_csv('vt-cs-grades.csv', sep='\t')
 
 # First column (named "Name") becomes the DataFrame index
 instructors = instructors.set_index('Name')
